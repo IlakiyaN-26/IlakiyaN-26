@@ -2,8 +2,8 @@
 
 ## 👩‍💻 About Me
 - 🚀 Software Developer with 2+ years of experience  
-- 💻 Skilled in **JavaScript, TypeScript, React, Node.js, AWS, MySQL, Cypress**  
-- 🌱 Currently learning **Spring Boot & Cloud Technologies**  
+- 💻 Skilled in **JavaScript, TypeScript, React, Node.js, Cloud Function, GCP, AWS, MySQL, Cypress**  
+- 🌱 Currently learning **React & Rest Api**  
 - 🌏 Open to opportunities in **Chennai & Abroad**  
 
 ---
